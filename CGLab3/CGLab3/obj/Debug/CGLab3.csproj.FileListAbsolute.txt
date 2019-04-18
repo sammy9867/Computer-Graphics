@@ -1,0 +1,10 @@
+C:\Users\samue\Downloads\Semester 6\Computer Graphics\Labs\CGLab3\CGLab3\bin\Debug\CGLab3.exe.config
+C:\Users\samue\Downloads\Semester 6\Computer Graphics\Labs\CGLab3\CGLab3\bin\Debug\CGLab3.exe
+C:\Users\samue\Downloads\Semester 6\Computer Graphics\Labs\CGLab3\CGLab3\bin\Debug\CGLab3.pdb
+C:\Users\samue\Downloads\Semester 6\Computer Graphics\Labs\CGLab3\CGLab3\obj\Debug\CGLab3.csprojAssemblyReference.cache
+C:\Users\samue\Downloads\Semester 6\Computer Graphics\Labs\CGLab3\CGLab3\obj\Debug\CGLab3.Drawing.resources
+C:\Users\samue\Downloads\Semester 6\Computer Graphics\Labs\CGLab3\CGLab3\obj\Debug\CGLab3.Properties.Resources.resources
+C:\Users\samue\Downloads\Semester 6\Computer Graphics\Labs\CGLab3\CGLab3\obj\Debug\CGLab3.csproj.GenerateResource.cache
+C:\Users\samue\Downloads\Semester 6\Computer Graphics\Labs\CGLab3\CGLab3\obj\Debug\CGLab3.csproj.CoreCompileInputs.cache
+C:\Users\samue\Downloads\Semester 6\Computer Graphics\Labs\CGLab3\CGLab3\obj\Debug\CGLab3.exe
+C:\Users\samue\Downloads\Semester 6\Computer Graphics\Labs\CGLab3\CGLab3\obj\Debug\CGLab3.pdb

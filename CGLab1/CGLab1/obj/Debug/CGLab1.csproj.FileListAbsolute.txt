@@ -1,0 +1,15 @@
+C:\Users\samue\Downloads\Semester 6\Computer Graphics\Labs\CGLab1\CGLab1\bin\Debug\CGLab1.exe.config
+C:\Users\samue\Downloads\Semester 6\Computer Graphics\Labs\CGLab1\CGLab1\bin\Debug\CGLab1.exe
+C:\Users\samue\Downloads\Semester 6\Computer Graphics\Labs\CGLab1\CGLab1\bin\Debug\CGLab1.pdb
+C:\Users\samue\Downloads\Semester 6\Computer Graphics\Labs\CGLab1\CGLab1\obj\Debug\CGLab1.Form1.resources
+C:\Users\samue\Downloads\Semester 6\Computer Graphics\Labs\CGLab1\CGLab1\obj\Debug\CGLab1.Properties.Resources.resources
+C:\Users\samue\Downloads\Semester 6\Computer Graphics\Labs\CGLab1\CGLab1\obj\Debug\CGLab1.csproj.GenerateResource.cache
+C:\Users\samue\Downloads\Semester 6\Computer Graphics\Labs\CGLab1\CGLab1\obj\Debug\CGLab1.csproj.CoreCompileInputs.cache
+C:\Users\samue\Downloads\Semester 6\Computer Graphics\Labs\CGLab1\CGLab1\obj\Debug\CGLab1.exe
+C:\Users\samue\Downloads\Semester 6\Computer Graphics\Labs\CGLab1\CGLab1\obj\Debug\CGLab1.pdb
+C:\Users\samue\Downloads\Semester 6\Computer Graphics\Labs\CGLab1\CGLab1\obj\Debug\CGLab1.ConvMatrix.resources
+C:\Users\samue\Downloads\Semester 6\Computer Graphics\Labs\CGLab1\CGLab1\obj\Debug\CGLab1.csprojAssemblyReference.cache
+C:\Users\samue\Downloads\Semester 6\Computer Graphics\Labs\CGLab1\CGLab1\obj\Debug\CGLab1.GammaSetterr.resources
+C:\Users\samue\Downloads\Semester 6\Computer Graphics\Labs\CGLab1\CGLab1\obj\Debug\CGLab1.Threshold.resources
+C:\Users\samue\Downloads\Semester 6\Computer Graphics\Labs\CGLab1\CGLab1\obj\Debug\CGLab1.RandomDithering.resources
+C:\Users\samue\Downloads\Semester 6\Computer Graphics\Labs\CGLab1\CGLab1\obj\Debug\CGLab1.Octree.resources
