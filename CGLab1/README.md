@@ -1,7 +1,3 @@
-# Computer Graphics
-
-This is my repository for the Computer graphics course.
-
 ## Lab 1
 The task was to implement a GUI where the user can upload an image and apply the following to it:
 
