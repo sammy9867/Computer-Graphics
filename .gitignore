@@ -21,8 +21,8 @@ bld/
 #[Bb]in/
 [Oo]bj/
 [Ll]og/
-CGLab1\.vs
-CGLab3\.vs
+CGLab1\.vs/
+CGLab3\.vs/
 
 # Visual Studio 2015 cache/options directory
 .vs/
