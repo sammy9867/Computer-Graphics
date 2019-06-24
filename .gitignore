@@ -9,9 +9,13 @@
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
-CGLab1/CGLab1/bin/
-CGLab3/CGLab3/bin/
+CGLab1/CGLab1/bin/Debug/
+CGLab1/CGLab1/obj/Debug/
+CGLab3/CGLab3/bin/Debug/
+CGLab3/CGLab3/obj/Debug/
 CGLab4/CGLab4/bin/
+CGLab1/.vs/
+CGLab3/.vs/
 
 # Build results
 #[Dd]ebug/
@@ -24,8 +28,7 @@ bld/
 #[Bb]in/
 [Oo]bj/
 [Ll]og/
-CGLab1\.vs/
-CGLab3\.vs/
+
 
 # Visual Studio 2015 cache/options directory
 .vs/
