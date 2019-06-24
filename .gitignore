@@ -9,6 +9,9 @@
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
+CGLab1/CGLab1/bin/
+CGLab3/CGLab3/bin/
+CGLab4/CGLab4/bin/
 
 # Build results
 #[Dd]ebug/
